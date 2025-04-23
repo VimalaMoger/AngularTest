@@ -1,6 +1,6 @@
 # Project goal
 
-Basics of Unit Testing in Angular, to test classes using Jasmine that gives us the ability to test 50% of our code. Angular framework such as Angular Test Bed to help test behaviours, wrote tests that involve an asynchronous action, HTTP, DI, Router, Model-Driven forms
+Basics of Unit Testing in Angular, to test classes in Jasmine. Angular framework such as Angular Test Bed to help test behaviours, wrote tests that involve an asynchronous action, HTTP, DI, Router, Model-Driven forms
 
 ### Test Frameworks
 
